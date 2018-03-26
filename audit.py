@@ -3,6 +3,8 @@ import string
 import datetime
 from random import randrange
 from datetime import timedelta
+import json 
+import django 
 
 def middle_initial():
 	upper_alpha = string.ascii_uppercase
